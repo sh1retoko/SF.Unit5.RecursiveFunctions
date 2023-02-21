@@ -1,0 +1,8 @@
+E:\project\SkillFactory_Unit5\Рекурсивные функции\bin\Debug\Рекурсивные функции.exe.config
+E:\project\SkillFactory_Unit5\Рекурсивные функции\bin\Debug\Рекурсивные функции.exe
+E:\project\SkillFactory_Unit5\Рекурсивные функции\bin\Debug\Рекурсивные функции.pdb
+E:\project\SkillFactory_Unit5\Рекурсивные функции\obj\Debug\Рекурсивные функции.csproj.AssemblyReference.cache
+E:\project\SkillFactory_Unit5\Рекурсивные функции\obj\Debug\Рекурсивные функции.csproj.SuggestedBindingRedirects.cache
+E:\project\SkillFactory_Unit5\Рекурсивные функции\obj\Debug\Рекурсивные функции.csproj.CoreCompileInputs.cache
+E:\project\SkillFactory_Unit5\Рекурсивные функции\obj\Debug\Рекурсивные функции.exe
+E:\project\SkillFactory_Unit5\Рекурсивные функции\obj\Debug\Рекурсивные функции.pdb
